@@ -7,5 +7,8 @@ The project also helps the business to grow as they can use different strategies
 
 ![](https://github.com/Areeba-Sohail/Project/blob/main/images/city%20count.png)
 
+![](https://github.com/Areeba-Sohail/Project/blob/main/images/model%20count.png)
+
+![](https://github.com/Areeba-Sohail/Project/blob/main/images/make-price.png)
 
 ![](https://github.com/Areeba-Sohail/Project/blob/main/images/heatmap.png)
